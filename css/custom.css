@@ -1,0 +1,114 @@
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.Signup-section{
+    background: #0479ab;background: -moz-linear-gradient(45deg,  #0479ab 0%,
+     #0c8997 100%);background: -webkit-linear-gradient(45deg,  #0479ab 0%,#0c8997 100%);
+     background: linear-gradient(45deg,  #0479ab 0%,#0c8997 100%);
+     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0479ab', 
+     endColorstr='#0c8997',GradientType=1 );min-height: 100vh;}
+
+.Signup-Box{
+    width: 350px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.Signup-Box img{
+    height: 28px;
+    width: 183px;
+    display: inline-block;
+    padding-top: 25px;
+    text-align: center;
+}
+
+.Signup-Box h1{
+    color: #fff;
+    font-size: 16px;
+    margin-top: 8px;
+    margin-bottom: 5px;
+    font-family: system-ui;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.Signup-Box p{
+    color: #EDF0F3;
+    margin-top: 8px;
+}
+
+.signup-form{padding: 0px 2px;}
+.signup-form form{
+    text-align: left;
+    padding: 17px 18px;
+    background: #EDF0F3;
+    box-shadow: 0 0 6px 1px #21212170;
+}
+
+.signup-form form input[type="submit"]{
+
+    color: #fff;
+    font-size: 16px;
+    margin-top: 13px;
+    margin-bottom: 4px;
+    box-shadow: 0px 0px 4px 1px #b7b7b7b5;
+
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#0596ba+0,0c8999+100 */
+background: #0596ba; /* Old browsers */
+background: -moz-linear-gradient(top,  #0596ba 0%, #0c8999 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #0596ba 0%,#0c8999 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #0596ba 0%,#0c8999 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0596ba', endColorstr='#0c8999',GradientType=0 ); /* IE6-9 */
+
+    cursor: pointer;
+    }
+
+
+.signup-form form label{
+    color: #555;
+    font-family: sans-serif;
+    }
+    
+.signup-form form p{
+    color: #555;
+    text-align: center;
+    margin-bottom: 2px;
+    margin-top: 4px;
+}
+.signup-form form a{
+    text-decoration: none;
+    color: #555;
+    line-height: 1.4;
+}
+.signup-form p{}
+.signup-form input{
+    width: 100%;
+    box-sizing: border-box;
+    font-size: 14px;
+    color: #555;
+    margin-top: 1px;
+    padding: 8px 4px;
+    margin-bottom: 12px;
+    box-shadow: 0px 0px #a8f3d3d4;
+    border: 1px solid #067DA6;
+}
+
+
+.Signup-section .media{}
+
+audio{
+    width: 350px;
+    height: 32px;
+    display: inline-block;
+    margin-top: 6px;
+}
+source{}
+
+
+
+
+
+
